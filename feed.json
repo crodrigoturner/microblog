@@ -1,0 +1,82 @@
+{
+	"version": "https://jsonfeed.org/version/1",
+	"title": "Carlos Rodrigo Turner",
+	"icon": "https://micro.blog/crodrigoturner/avatar.jpg",
+	"home_page_url": "https://carlosrodrigo.com/",
+	"feed_url": "https://carlosrodrigo.com/feed.json",
+	"items": [
+		
+			{
+				"id": "http://crodrigoturner.micro.blog/2026/04/16/if-you-cannot-prove-that.html",
+				
+				"content_html": "<blockquote>\n<p>If you cannot prove that every dollar of electricity you burn is generating a verified unit of intelligence, you are functionally bankrupt.</p>\n</blockquote>\n<p>— Peter Diamandis</p>\n",
+				"content_text": "> If you cannot prove that every dollar of electricity you burn is generating a verified unit of intelligence, you are functionally bankrupt.\n\n— Peter Diamandis\n\n\n",
+				"date_published": "2026-04-16T15:35:41+02:00",
+				"url": "https://carlosrodrigo.com/2026/04/16/if-you-cannot-prove-that.html",
+				"tags": ["Clippings"]
+			},
+			{
+				"id": "http://crodrigoturner.micro.blog/2026/04/16/april.html",
+				"title": "April 2026",
+				"content_html": "<p>Madrid, Spain</p>\n<p><strong>Working on</strong>: at TYA, building out my PKB in Obsidian <br>\n<strong>Learning</strong>: about AI, LLMs, parenting<br>\n<strong>Thinking about</strong>:  How To Beat ChatGPT, what success means   <br>\n<strong>Not doing right now</strong>: Trying not to follow the news&hellip;<br>\n<strong>Reading</strong>: Old School, How will you measure your life&hellip;</p>\n",
+				"content_text": "Madrid, Spain\n\n**Working on**: at TYA, building out my PKB in Obsidian    \n**Learning**: about AI, LLMs, parenting  \n**Thinking about**:  How To Beat ChatGPT, what success means      \n**Not doing right now**: Trying not to follow the news...   \n**Reading**: Old School, How will you measure your life...\n",
+				"date_published": "2026-04-16T13:50:59+02:00",
+				"url": "https://carlosrodrigo.com/2026/04/16/april.html",
+				"tags": ["Now"]
+			},
+			{
+				"id": "http://crodrigoturner.micro.blog/2026/04/16/old-school-review.html",
+				"title": "Old School review",
+				"content_html": "<p>Yesterday I finished reading &ldquo;Old school&rdquo; by Nicholas Bate.\nA short, sharp case for going back to basics.\nNo clever systems, no shortcuts — just a reminder that focus, discipline, and doing the work properly still matter. It reads fast.  Worth it.</p>\n<blockquote>\n<p>&lsquo;Old school&rsquo; means living by timeless principles. Who doesn&rsquo;t value punctuality or resourcefulness under pressure? These qualities are never obsolete; they form the foundation for working and living with ease.</p>\n</blockquote>\n<!-- raw HTML omitted -->\n",
+				"content_text": "\n\nYesterday I finished reading \"Old school\" by Nicholas Bate.\nA short, sharp case for going back to basics. \nNo clever systems, no shortcuts — just a reminder that focus, discipline, and doing the work properly still matter. It reads fast.  Worth it.\n\n>'Old school' means living by timeless principles. Who doesn't value punctuality or resourcefulness under pressure? These qualities are never obsolete; they form the foundation for working and living with ease.\n\n<img src=\"uploads/2026/img-8529.jpg\" alt=\"A book cover for Old School: The Compact Guide by Nicholas Bate, featuring a modern design and mentioning AI-proofing your career.\">\n",
+				"date_published": "2026-04-16T11:12:37+02:00",
+				"url": "https://carlosrodrigo.com/2026/04/16/old-school-review.html",
+				"tags": ["Notes"]
+			},
+			{
+				"id": "http://crodrigoturner.micro.blog/2026/04/14/nothing-makes-us-safer-and.html",
+				
+				"content_html": "<p>Nothing makes us safer and happier than ensuring the well-being of everyone.</p>\n<p>— From <a href=\"https://meiert.com/\">Jens Oliver Meiert</a></p>\n",
+				"content_text": "Nothing makes us safer and happier than ensuring the well-being of everyone.\n\n— From [Jens Oliver Meiert](https://meiert.com/)\n",
+				"date_published": "2026-04-14T14:57:05+02:00",
+				"url": "https://carlosrodrigo.com/2026/04/14/nothing-makes-us-safer-and.html",
+				"tags": ["Clippings"]
+			},
+			{
+				"id": "http://crodrigoturner.micro.blog/2026/04/13/things-ive-used-claude-cowork.html",
+				"title": "Things I've used Claude Cowork for...",
+				"content_html": "<ol>\n<li>I fed Claude Cowork the OPML file containing the RSS feeds from Feedly to get recommendations based on those feeds.</li>\n<li>I fed it a CSV file with the podcast I follow to get recommendations.</li>\n<li>I fed it an HTML file from my Raindrop collections to find redundancies, duplicates&hellip;</li>\n<li>I used it to create notes and clean my Obsidian Vault.</li>\n<li>I used it to get a report on my website with possible improvements&hellip;</li>\n</ol>\n<p>Anything else I should try?</p>\n",
+				"content_text": "1. I fed Claude Cowork the OPML file containing the RSS feeds from Feedly to get recommendations based on those feeds.\n2. I fed it a CSV file with the podcast I follow to get recommendations.\n3. I fed it an HTML file from my Raindrop collections to find redundancies, duplicates...\n4. I used it to create notes and clean my Obsidian Vault.\n5. I used it to get a report on my website with possible improvements...\n\nAnything else I should try?\n",
+				"date_published": "2026-04-13T15:32:52+02:00",
+				"url": "https://carlosrodrigo.com/2026/04/13/things-ive-used-claude-cowork.html",
+				"tags": ["Notes"]
+			},
+			{
+				"id": "http://crodrigoturner.micro.blog/2026/04/11/walk-with-pancho.html",
+				
+				"content_html": "<p>Walk with Pancho</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Walk with Pancho\n\n<img src=\"uploads/2026/image.jpg\">\n",
+				"date_published": "2026-04-11T07:22:45+02:00",
+				"url": "https://carlosrodrigo.com/2026/04/11/walk-with-pancho.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://crodrigoturner.micro.blog/2026/04/10/for-thousands-of-years-greenland.html",
+				
+				"content_html": "<blockquote>\n<p>For thousands of years Greenland sharks have swum in silence, as above them the world has burned, rebuilt, burned again. [&hellip;]\nI am glad not to be a Greenland shark; I don’t have enough thoughts to fill five hundred years. But I find the very idea of them hopeful. They will see us pass through our current spinning apocalypse, and the crash that will come after it, and they will see the currently unimagined things that will come after that: the transformations, revelations, the possible liberations. That is their beauty, and it’s breathtaking: they go on. These slow, odorous, half-blind creatures are perhaps the closest thing to eternal this planet has to offer.</p>\n</blockquote>\n<p>— Katherine Rundell in <a href=\"https://www.lrb.co.uk/the-paper/v42/n09/katherine-rundell/consider-the-greenland-shark?utm_source=things&amp;utm_medium=email&amp;utm_campaign=things-week-14-2026\">Consider the Greenland Shark</a></p>\n",
+				"content_text": "> For thousands of years Greenland sharks have swum in silence, as above them the world has burned, rebuilt, burned again. [...]\n> I am glad not to be a Greenland shark; I don’t have enough thoughts to fill five hundred years. But I find the very idea of them hopeful. They will see us pass through our current spinning apocalypse, and the crash that will come after it, and they will see the currently unimagined things that will come after that: the transformations, revelations, the possible liberations. That is their beauty, and it’s breathtaking: they go on. These slow, odorous, half-blind creatures are perhaps the closest thing to eternal this planet has to offer.\n\n— Katherine Rundell in [Consider the Greenland Shark](https://www.lrb.co.uk/the-paper/v42/n09/katherine-rundell/consider-the-greenland-shark?utm_source=things&utm_medium=email&utm_campaign=things-week-14-2026)\n",
+				"date_published": "2026-04-10T12:16:29+02:00",
+				"url": "https://carlosrodrigo.com/2026/04/10/for-thousands-of-years-greenland.html",
+				"tags": ["Clippings"]
+			},
+			{
+				"id": "http://crodrigoturner.micro.blog/2026/04/10/new-background.html",
+				
+				"content_html": "<p>New background</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "New background\n\n<img src=\"https://eu.uploads.micro.blog/315335/2026/gemini-generated-image-ahiplyahiplyahip.png\">\n",
+				"date_published": "2026-04-10T12:04:17+02:00",
+				"url": "https://carlosrodrigo.com/2026/04/10/new-background.html",
+				"tags": ["Photos"]
+			}
+	]
+}
