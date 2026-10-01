@@ -1,9 +1,9 @@
 {
 	"version": "https://jsonfeed.org/version/1",
-	"title": "The Blog of Carlos Rodrigo",
+	"title": "Carlos Rodrigo",
 	"icon": "<no value>",
-	"home_page_url": "https://carlosrodrigo.blog/",
-	"feed_url": "https://carlosrodrigo.blog/feed.json",
+	"home_page_url": "https://carlosrodrigo.com/",
+	"feed_url": "https://carlosrodrigo.com/feed.json",
 	"items": [
 		
 			{
@@ -12,7 +12,7 @@
 				"content_html": "<p>We should be confident in our beliefs, but never certain&hellip; (<a href=\"https://aeon.co/essays/a-good-sceptic-has-more-than-doubt-and-less-than-certainty\">source</a>)</p>\n",
 				"content_text": "We should be confident in our beliefs, but never certain... ([source](https://aeon.co/essays/a-good-sceptic-has-more-than-doubt-and-less-than-certainty))\n",
 				"date_published": "2026-09-29T12:34:09+02:00",
-				"url": "https://carlosrodrigo.blog/2026/09/29/we-should-be-confident-in.html"
+				"url": "https://carlosrodrigo.com/2026/09/29/we-should-be-confident-in.html"
 			},
 			{
 				"id": "http://crodrigoturner.micro.blog/2026/09/29/it-is-not-the-man.html",
@@ -20,7 +20,7 @@
 				"content_html": "<blockquote>\n<p>It is not the man who has too little who is poor, but the man who is always after more.</p>\n</blockquote>\n<p>— Seneca</p>\n",
 				"content_text": "> It is not the man who has too little who is poor, but the man who is always after more.\n\n— Seneca\n",
 				"date_published": "2026-09-29T12:33:20+02:00",
-				"url": "https://carlosrodrigo.blog/2026/09/29/it-is-not-the-man.html",
+				"url": "https://carlosrodrigo.com/2026/09/29/it-is-not-the-man.html",
 				"tags": ["Quotes"]
 			},
 			{
@@ -29,7 +29,7 @@
 				"content_html": "<blockquote>\n<p>Most people are other people. Their thoughts are someone else&rsquo;s opinions, their lives a mimicry, their passions a quotation.</p>\n</blockquote>\n<p>— Oscar Wilde</p>\n",
 				"content_text": "> Most people are other people. Their thoughts are someone else's opinions, their lives a mimicry, their passions a quotation.     \n\n— Oscar Wilde\n",
 				"date_published": "2026-09-29T12:32:03+02:00",
-				"url": "https://carlosrodrigo.blog/2026/09/29/most-people-are-other-people.html",
+				"url": "https://carlosrodrigo.com/2026/09/29/most-people-are-other-people.html",
 				"tags": ["Quotes"]
 			},
 			{
@@ -38,7 +38,7 @@
 				"content_html": "<p>After a short list of questions, this appears to be my archetype regarding AI. <a href=\"https://bambamramfan.github.io/ai-compass/\">Check yours</a>.</p>\n<img src=\"uploads/2026/captura-de-pantalla-2026-09-29-112141.png\">\n",
 				"content_text": "After a short list of questions, this appears to be my archetype regarding AI. [Check yours](https://bambamramfan.github.io/ai-compass/).\n\n<img src=\"uploads/2026/captura-de-pantalla-2026-09-29-112141.png\">\n",
 				"date_published": "2026-09-29T11:24:02+02:00",
-				"url": "https://carlosrodrigo.blog/2026/09/29/the-ai-compass.html",
+				"url": "https://carlosrodrigo.com/2026/09/29/the-ai-compass.html",
 				"tags": ["AI"]
 			},
 			{
@@ -47,7 +47,7 @@
 				"content_html": "<blockquote>\n<p>If you cannot prove that every dollar of electricity you burn is generating a verified unit of intelligence, you are functionally bankrupt.</p>\n</blockquote>\n<p>— Peter Diamandis</p>\n",
 				"content_text": "> If you cannot prove that every dollar of electricity you burn is generating a verified unit of intelligence, you are functionally bankrupt.\n\n— Peter Diamandis\n\n\n",
 				"date_published": "2026-04-16T15:35:41+02:00",
-				"url": "https://carlosrodrigo.blog/2026/04/16/if-you-cannot-prove-that.html",
+				"url": "https://carlosrodrigo.com/2026/04/16/if-you-cannot-prove-that.html",
 				"tags": ["Clippings"]
 			},
 			{
@@ -56,7 +56,7 @@
 				"content_html": "<blockquote>\n<p>Nothing makes us safer and happier than ensuring the well-being of everyone.</p>\n</blockquote>\n<p>— From <a href=\"https://meiert.com/\">Jens Oliver Meiert</a></p>\n",
 				"content_text": "> Nothing makes us safer and happier than ensuring the well-being of everyone.\n\n— From [Jens Oliver Meiert](https://meiert.com/)\n",
 				"date_published": "2026-04-14T14:57:05+02:00",
-				"url": "https://carlosrodrigo.blog/2026/04/14/nothing-makes-us-safer-and.html",
+				"url": "https://carlosrodrigo.com/2026/04/14/nothing-makes-us-safer-and.html",
 				"tags": ["Clippings"]
 			},
 			{
@@ -65,7 +65,7 @@
 				"content_html": "<ol>\n<li>I fed Claude Cowork the OPML file containing the RSS feeds from Feedly to get recommendations based on those feeds.</li>\n<li>I fed it a CSV file with the podcast I follow to get recommendations.</li>\n<li>I fed it an HTML file from my Raindrop collections to find redundancies, duplicates&hellip;</li>\n<li>I used it to create notes and clean my Obsidian Vault.</li>\n<li>I used it to get a report on my website with possible improvements&hellip;</li>\n</ol>\n<p>Anything else I should try?</p>\n",
 				"content_text": "1. I fed Claude Cowork the OPML file containing the RSS feeds from Feedly to get recommendations based on those feeds.\n2. I fed it a CSV file with the podcast I follow to get recommendations.\n3. I fed it an HTML file from my Raindrop collections to find redundancies, duplicates...\n4. I used it to create notes and clean my Obsidian Vault.\n5. I used it to get a report on my website with possible improvements...\n\nAnything else I should try?\n",
 				"date_published": "2026-04-13T15:32:52+02:00",
-				"url": "https://carlosrodrigo.blog/2026/04/13/things-ive-used-claude-cowork.html",
+				"url": "https://carlosrodrigo.com/2026/04/13/things-ive-used-claude-cowork.html",
 				"tags": ["Notes"]
 			},
 			{
@@ -74,7 +74,7 @@
 				"content_html": "<blockquote>\n<p>For thousands of years Greenland sharks have swum in silence, as above them the world has burned, rebuilt, burned again. [&hellip;]\nI am glad not to be a Greenland shark; I don’t have enough thoughts to fill five hundred years. But I find the very idea of them hopeful. They will see us pass through our current spinning apocalypse, and the crash that will come after it, and they will see the currently unimagined things that will come after that: the transformations, revelations, the possible liberations. That is their beauty, and it’s breathtaking: they go on. These slow, odorous, half-blind creatures are perhaps the closest thing to eternal this planet has to offer.</p>\n</blockquote>\n<p>— Katherine Rundell in <a href=\"https://www.lrb.co.uk/the-paper/v42/n09/katherine-rundell/consider-the-greenland-shark?utm_source=things&amp;utm_medium=email&amp;utm_campaign=things-week-14-2026\">Consider the Greenland Shark</a></p>\n",
 				"content_text": "> For thousands of years Greenland sharks have swum in silence, as above them the world has burned, rebuilt, burned again. [...]\n> I am glad not to be a Greenland shark; I don’t have enough thoughts to fill five hundred years. But I find the very idea of them hopeful. They will see us pass through our current spinning apocalypse, and the crash that will come after it, and they will see the currently unimagined things that will come after that: the transformations, revelations, the possible liberations. That is their beauty, and it’s breathtaking: they go on. These slow, odorous, half-blind creatures are perhaps the closest thing to eternal this planet has to offer.\n\n— Katherine Rundell in [Consider the Greenland Shark](https://www.lrb.co.uk/the-paper/v42/n09/katherine-rundell/consider-the-greenland-shark?utm_source=things&utm_medium=email&utm_campaign=things-week-14-2026)\n",
 				"date_published": "2026-04-10T12:16:29+02:00",
-				"url": "https://carlosrodrigo.blog/2026/04/10/for-thousands-of-years-greenland.html",
+				"url": "https://carlosrodrigo.com/2026/04/10/for-thousands-of-years-greenland.html",
 				"tags": ["Clippings"]
 			}
 	]
