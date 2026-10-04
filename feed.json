@@ -7,12 +7,21 @@
 	"items": [
 		
 			{
+				"id": "http://crodrigoturner.micro.blog/2026/10/04/watched-la-bola-negra-very.html",
+				
+				"content_html": "<p>Watched: <a href=\"https://www.themoviedb.org/movie/1422041\">La bola negra</a> 🍿 Very powerful, though not as powerful as the trailer.</p>\n",
+				"content_text": "Watched: [La bola negra](https://www.themoviedb.org/movie/1422041) 🍿 Very powerful, though not as powerful as the trailer.\n",
+				"date_published": "2026-10-04T18:56:05+02:00",
+				"url": "https://carlosrodrigo.com/2026/10/04/watched-la-bola-negra-very.html"
+			},
+			{
 				"id": "http://crodrigoturner.micro.blog/2026/10/03/the-park-for-pacho-and.html",
 				
-				"content_html": "<p>The park for Pacho and I.</p>\n<img src=\"uploads/2026/14284.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
-				"content_text": "The park for Pacho and I.\n\n<img src=\"uploads/2026/14284.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_html": "<p>The park for Pancho and I.</p>\n<img src=\"uploads/2026/14284.jpg\">\n",
+				"content_text": "The park for Pancho and I.\n\n<img src=\"uploads/2026/14284.jpg\">\n",
 				"date_published": "2026-10-03T09:12:44+02:00",
-				"url": "https://carlosrodrigo.com/2026/10/03/the-park-for-pacho-and.html"
+				"url": "https://carlosrodrigo.com/2026/10/03/the-park-for-pacho-and.html",
+				"tags": ["Photos"]
 			},
 			{
 				"id": "http://crodrigoturner.micro.blog/2026/10/01/the-individual-has-always-had.html",
