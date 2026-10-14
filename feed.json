@@ -7,6 +7,24 @@
 	"items": [
 		
 			{
+				"id": "http://crodrigoturner.micro.blog/2026/10/14/114308.html",
+				
+				"content_html": "<img src=\"uploads/2026/15203.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "<img src=\"uploads/2026/15203.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2026-10-14T11:43:08+02:00",
+				"url": "https://carlosrodrigo.com/2026/10/14/114308.html",
+				"tags": ["Photos","Books"]
+			},
+			{
+				"id": "http://crodrigoturner.micro.blog/2026/10/09/092828.html",
+				
+				"content_html": "<img src=\"uploads/2026/image.jpg\" width=\"600\" height=\"799\" alt=\"Auto-generated description: A tree-lined pathway is illuminated by a row of streetlights during twilight, with parked cars along the side.\">\n",
+				"content_text": "<img src=\"uploads/2026/image.jpg\" width=\"600\" height=\"799\" alt=\"Auto-generated description: A tree-lined pathway is illuminated by a row of streetlights during twilight, with parked cars along the side.\">\n",
+				"date_published": "2026-10-09T09:28:28+02:00",
+				"url": "https://carlosrodrigo.com/2026/10/09/092828.html",
+				"tags": ["Photos"]
+			},
+			{
 				"id": "http://crodrigoturner.micro.blog/2026/10/08/currently-reading-four-horsemen-by.html",
 				
 				"content_html": "<img src=\"https://cdn.micro.blog/books/9780593080399/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Currently reading: <a href=\"https://carlosrodrigo.com/books/9780593080399/\">Four Horsemen</a> by Richard Dawkins, Christopher Hitchens, Sam Harris and Daniel Dennett 📚</p>\n",
@@ -45,8 +63,8 @@
 			{
 				"id": "http://crodrigoturner.micro.blog/2026/10/03/the-park-for-pacho-and.html",
 				
-				"content_html": "<p>The park for Pancho and I.</p>\n<img src=\"uploads/2026/14284.jpg\">\n",
-				"content_text": "The park for Pancho and I.\n\n<img src=\"uploads/2026/14284.jpg\">\n",
+				"content_html": "<p>The park for Pancho and I.</p>\n<img src=\"https://eu.uploads.micro.blog/315335/2026/14284.jpg\">\n",
+				"content_text": "The park for Pancho and I.\n\n<img src=\"https://eu.uploads.micro.blog/315335/2026/14284.jpg\">\n",
 				"date_published": "2026-10-03T09:12:44+02:00",
 				"url": "https://carlosrodrigo.com/2026/10/03/the-park-for-pacho-and.html",
 				"tags": ["Photos"]
