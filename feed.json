@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://crodrigoturner.micro.blog/2026/10/20/currently-reading-the-freedom-formula.html",
+				
+				"content_html": "<img src=\"https://cdn.micro.blog/books/9781948836654/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Currently reading: <a href=\"https://carlosrodrigo.com/books/9781948836654/\">The freedom formula: how to succeed in business without sacrificing your family, health, or life</a> by David Finkel 📚</p>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/9781948836654/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nCurrently reading: [The freedom formula: how to succeed in business without sacrificing your family, health, or life](https://carlosrodrigo.com/books/9781948836654/) by David Finkel 📚\n",
+				"date_published": "2026-10-20T11:40:25+02:00",
+				"url": "https://carlosrodrigo.com/2026/10/20/currently-reading-the-freedom-formula.html"
+			},
+			{
 				"id": "http://crodrigoturner.micro.blog/2026/10/15/currently-reading-kissinger-by-walter.html",
 				
 				"content_html": "<img src=\"https://cdn.micro.blog/books/9781439127216/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Currently reading: <a href=\"https://carlosrodrigo.com/books/9781439127216/\">Kissinger</a> by Walter Isaacson 📚</p>\n",
@@ -81,8 +89,8 @@
 			{
 				"id": "http://crodrigoturner.micro.blog/2026/10/03/the-park-for-pacho-and.html",
 				
-				"content_html": "<p>The park for Pancho and I.</p>\n<img src=\"https://eu.uploads.micro.blog/315335/2026/14284.jpg\">\n",
-				"content_text": "The park for Pancho and I.\n\n<img src=\"https://eu.uploads.micro.blog/315335/2026/14284.jpg\">\n",
+				"content_html": "<img src=\"uploads/2026/14284.jpg\">\n",
+				"content_text": "\n\n\n<img src=\"uploads/2026/14284.jpg\">\n",
 				"date_published": "2026-10-03T09:12:44+02:00",
 				"url": "https://carlosrodrigo.com/2026/10/03/the-park-for-pacho-and.html",
 				"tags": ["Photos"]
